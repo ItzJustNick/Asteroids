@@ -1,5 +1,5 @@
 ---
-# Asteroids-ItsJustNick
+# Asteroids - ItsJustNick
 Asteroids is a 2 player game about a space ship in space shooting at asteroids. This was one of my first C# projects at AIE.
 
 ---
